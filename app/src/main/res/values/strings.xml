@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AdMobTestKotlinApp</string>
+    <string name="sample_ad_mob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="test_rewarded_unit_id">ca-app-pub-3940256099942544/5224354917</string>
+    <string name="test_banner_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="test_interstitial_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="test_native_unit_id">ca-app-pub-3940256099942544/8135179316</string>
+</resources>
